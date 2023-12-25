@@ -8,5 +8,6 @@ int main()
     cout<<"Hello DSC-UIT 2024";
     return 0;
     cout<<"Merry Xmas";
+    cout<<"ttt";
     
 }
